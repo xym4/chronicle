@@ -1,6 +1,8 @@
 ## Ideal Architecture
 ![architecture diagram](arch.png)
 
+![architecture diagram2](arch2.png)
+
 ## Start-up
 
 ```
